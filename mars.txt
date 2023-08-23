@@ -2,4 +2,6 @@ we have our tools ready to jet for mars
 
 docked at international space station and ready
 
-entering mars
+entering mars orbit
+
+starting descend
